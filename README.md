@@ -2,7 +2,8 @@
 Very nice tools.
 
 ## License
-Free for academia, for commercial use, you gotta get a licence
+Apache-2.0
+https://www.apache.org/licenses/LICENSE-2.0.txt
 
 ## Installation
 
